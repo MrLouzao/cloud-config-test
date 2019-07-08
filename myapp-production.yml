@@ -1,6 +1,6 @@
 cpm:
-    port: 4000
+    port: 7050
     address: "0x0"
 am:
-    port: 6000
+    port: 8040
     address: "0x0"
