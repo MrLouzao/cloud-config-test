@@ -1,0 +1,6 @@
+cpm:
+    port: 4000
+    address: "0x0"
+am:
+    port: 6000
+    address: "0x0"
