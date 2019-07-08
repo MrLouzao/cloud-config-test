@@ -1,6 +1,6 @@
 cpm:
-	port: 3000
-	address: 0x0
+    port: 3000
+    address: 0x0
 am:
-	port: 2000
-	address: 0x0
+    port: 2000
+    address: 0x0
