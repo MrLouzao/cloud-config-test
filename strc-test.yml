@@ -1,0 +1,5 @@
+isJson: true
+database:
+  name: "mock-value"
+  host: "mock-value"
+  password: "mock-value"
